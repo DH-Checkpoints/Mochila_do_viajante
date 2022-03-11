@@ -31,6 +31,14 @@ O desafio consiste em:
 </p>
 
 ---
+
+~~~javascript
+// Gravei um vídeo, e está na Twitch para acompanhar e ir fazendo junto caso tenha dúvidas
+// Link: https://www.twitch.tv/videos/1421978671
+// Qualquer dúvida, pode me chamar.
+~~~
+
+---
 <h3>Passo a passo via terminal</h3>
 
 Clone
